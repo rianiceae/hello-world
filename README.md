@@ -76,7 +76,11 @@
         </div>
       </div>
     </div>
-
+    <footer>
+      <div class="container">
+      <a href="#" class="copyright"><span class="fa fa-copyright"></span>2020 CEB C05</a>
+      </div>    
+    </footer>
   </div>
 
 </body>
